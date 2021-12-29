@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Kieyunna2120
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 📧 Kieyunnajoseph2021@Gmail.com 
+- 📍 FB @Kia-Lasstpage
+- 📞 916-534-3723 
+<!---
+
+Kieyunna2120/Kieyunna2120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
